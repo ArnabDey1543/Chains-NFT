@@ -39,6 +39,7 @@ const HeroSection = () => {
                 Lorem ipsum, dolor sit amet consectetur adipisicing elit.
                 Deleniti excepturi omnis neque adipisci sequi ullam unde in
                 minus quis quos.
+                
               </p>
 
               <div className="hero__btns d-flex align-items-center gap-4">
